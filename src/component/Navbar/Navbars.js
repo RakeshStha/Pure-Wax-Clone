@@ -33,7 +33,7 @@ const Navbars = () => {
                     <NavLink href="/components/">SHOP NOW</NavLink>
                     </NavItem>
                     <NavItem>
-                    <NavLink href="https://github.com/reactstrap/reactstrap">BEST SELLERS</NavLink>
+                    <NavLink href="">BEST SELLERS</NavLink>
                     </NavItem>
                     <UncontrolledDropdown nav inNavbar>
                     <DropdownToggle nav caret>
