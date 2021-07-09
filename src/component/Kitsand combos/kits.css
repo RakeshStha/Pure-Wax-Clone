@@ -8,17 +8,31 @@
     grid-auto-rows: 280px;
 }
 
+.sale{
+    position: relative;
+}
+
   /* Text on image */
   .on-image {
     position: absolute;
-    top: 210px;
-    left: 30px;
+    top: 20px;
+    left: 12px;
     background-color: white;
     width: 4.1rem;
     padding: 3px;
     font-size: 15px;
     color: darkgrey;
   }
+
+.top-head-1{
+    margin-top: 40px;
+    font-size: 15px;
+    /* line-height: 0.01rem; */
+}
+
+.top-head-2 {
+    font-size: 25px;
+}
 
 .container-content{
     display: grid;
@@ -75,16 +89,6 @@
   .crossed{
       text-decoration: line-through;
   }
-
-.top-head-1{
-    margin-top: 10px;
-    font-size: 15px;
-    /* line-height: 0.01rem; */
-}
-
-.top-head-2 {
-    font-size: 25px;
-}
 
     .view-product-button{
         margin-top: 20px;

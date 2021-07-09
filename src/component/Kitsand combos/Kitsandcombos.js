@@ -9,10 +9,13 @@ import {
 const Kitsandcombos = () => {
     return (
         <Container fluid>
+            <div>
+                <img src="assets/images/banner.jpg" alt="ads-banner"/>
+            </div>
                 <p className="text-center top-head-1">SHOP MORE PAY LESS! </p>
                 <p className="text-center top-head-2">KITS AND COMBO'S</p>
                 <div className="image-container-with-rating">
-                    <div className="container-1 container-content">
+                    <div className="container-1 container-content sale">
                         <p class="on-image">ON SALE</p>
                         <div className="kits-card">
                             <p>PUREWAX MADNESS KIT</p>
