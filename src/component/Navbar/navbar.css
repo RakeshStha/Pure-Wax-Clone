@@ -1,0 +1,14 @@
+.navbar-line{
+    margin-bottom: 0px;
+    color: inherit;
+    background-color: currentColor;
+    border: 0;
+    opacity: .25;
+}
+
+.header-logo{
+    padding-top: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
