@@ -11,7 +11,7 @@ import {
 const HomeCard = () => {
     return (
         <div>
-            <Container fluid>
+            <Container fluid className="homecard-content">
             <Row>
                 <Col>
                 <Card className="card-img card-img-a">

@@ -6,7 +6,7 @@ import {
     Collapse,
     Navbar,
     NavbarToggler,
-    NavbarBrand,
+    // NavbarBrand,
     Nav,
     NavItem,
     NavLink,
@@ -14,7 +14,7 @@ import {
     DropdownToggle,
     DropdownMenu,
     DropdownItem,
-    NavbarText
+    // NavbarText
   } from 'reactstrap';
 
 const Navbars = () => {

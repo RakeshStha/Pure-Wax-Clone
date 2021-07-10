@@ -1,3 +1,8 @@
+.homecard-content{
+    margin-bottom: 20px;
+    padding-bottom: 20px;
+}
+
 .card-img-a{
     background:linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('https://cdn.shopify.com/s/files/1/0541/0977/collections/outre-1003shopify_750x960_crop_center.jpg?v=1574821654');
     /* transition: transform .8s cubic-bezier(.215, .61, .355, 1),opacity .8s cubic-bezier(.215, .61, .355, 1); */

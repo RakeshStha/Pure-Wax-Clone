@@ -1,0 +1,60 @@
+.footer-line{
+    margin-bottom: 0px;
+    color: inherit;
+    background-color: currentColor;
+    border: 0;
+    opacity: .25;
+}
+
+.footer-content{
+    margin: 0px;
+    padding: 50px 5px 50px 5px;
+    display: flex;
+    justify-content:space-between;
+   
+}
+
+.deal-alert{
+    padding-top: 20px;
+    width: 18rem;
+    text-align: justify;
+}
+
+.text-justify{
+    padding-top: 20px;
+    padding-left: 20px;
+    text-align: justify;
+}
+
+.footer-icons{
+    padding-top: 20px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.footer-email{
+    margin-bottom: 20px;
+}
+
+.footer-email input{
+    height: 2.6rem;
+    width: 100%;
+    border: 1px solid darkgrey;
+}
+
+.footer-email input::placeholder{
+    padding-left: 1rem;
+}
+
+.text-left{
+    display: flex;
+    justify-content: flex-start;
+}
+
+.footer-btn{
+    background-color: black;
+    height: 2.7rem;
+    width: 50%;
+    color: white;
+    border: none;
+}
